@@ -50,7 +50,7 @@ Navigate an agent through a grid-based world to find gold while avoiding the vam
 
 - The code is extensible, allowing for multiple vampus and gold positions.
 
-## How to Play
+## Procedure to Play
 
 1. Run the script.
 2. Use arrow buttons to navigate the blue agent.
